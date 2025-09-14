@@ -1,2 +1,4 @@
 # Ticket-481
-print("Welcome to Acme!") user_name=input("Name?") print(f"Hello {user_name.strip()}")
+print("Welcome to Acme!") 
+user_name=input("Name?")
+print(f"Hello {user_name.strip()}")
