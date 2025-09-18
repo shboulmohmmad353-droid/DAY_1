@@ -1,3 +1,1 @@
-print("Welcome to Acme!")
-user_name=input("Name?")
-print(f"Hello {user_name.strip()}")
+https://www.bing.com/search?filters=ufn%3a%22Yarmouk+University%22<img width="740" height="363" alt="Screenshot 2025-09-16 100136" src="https://github.com/user-attachments/assets/b150fb0d-c083-407e-9ac6-c86d3275412b" />
