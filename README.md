@@ -8,8 +8,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=shboulmohmmad353-droid&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=shboulmohmmad353-droid&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shboulmohmmad353-droid&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img width="379" height="269" alt="Screenshot 2025-09-18 092944" src="https://github.com/user-attachments/assets/3dbfa897-406d-46b7-a488-091d25cfaac1" />
 
 ---
 [![](https://visitcount.itsvg.in/api?id=shboulmohmmad353-droid&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
